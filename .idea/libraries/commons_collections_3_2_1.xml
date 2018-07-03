@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-collections-3.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.2.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/httpclient-4.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/httpcore-4.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
